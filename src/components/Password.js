@@ -4,7 +4,7 @@ import './UserInfo';
 
 const Password = () => {
   const input = useInput();
-  const flag = input.vars.password === input.vars.checkPassword && input.vars.password && input.vars.checkPassword && input.vars.password.length > 5;
+  const flag = input.vars.password === input.vars.checkPassword && input.vars.password.length > 5;
   const styles = {
     backgroundColor: flag ? 'green' : 'red',
     opacity: flag ? '1' : '.3',
