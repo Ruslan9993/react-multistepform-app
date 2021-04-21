@@ -1,0 +1,26 @@
+.buttons {
+ margin-top: 2rem;
+ display: flex;
+ justify-content: space-between;
+ width: 100%;
+ align-items: center;
+}
+
+.UserInfo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 3rem;
+  width: 40%;
+  margin: auto;
+}
+.input {
+  width: 100%;
+}
+.second {
+  margin-bottom: 2rem;
+}
+.email {
+  width: 100%;
+}

@@ -1,0 +1,3 @@
+export const CHANGE_EMAIL = 'CHANGE_EMAIL';
+export const CHANGE_PASSWORD = 'CHANGE_PASSWORD';
+export const CHECK_PASSWORD = 'CHECK_PASSWORD';
